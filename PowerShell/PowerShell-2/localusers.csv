@@ -1,0 +1,11 @@
+#TYPE Microsoft.PowerShell.Commands.LocalUser
+"AccountExpires";"Description";"Enabled";"FullName";"PasswordChangeableDate";"PasswordExpires";"UserMayChangePassword";"PasswordRequired";"PasswordLastSet";"LastLogon";"Name";"SID";"PrincipalSource";"ObjectClass"
+;"";"True";"";;;"True";"False";;;"bellan";"S-1-5-21-2206999850-3209828552-655343095-1010";"Local";"User"
+;"J?rjestelm?n yll?pit?m? k?ytt?j?tili.";"False";"";;;"True";"False";;;"DefaultAccount";"S-1-5-21-2206999850-3209828552-655343095-503";"Local";"User"
+;"J?rjestelm??n kuuluva tietokoneen/toimialueen hallintatili";"False";"";;;"True";"True";;;"J?rjestelm?nvalvoja";"S-1-5-21-2206999850-3209828552-655343095-500";"Local";"User"
+;"";"True";"Motelli Kontio henkil?kunta";"23.8.2021 12.45.05";;"True";"True";"23.8.2021 12.45.05";;"majoi";"S-1-5-21-2206999850-3209828552-655343095-1002";"MicrosoftAccount";"User"
+;"";"True";"";;;"True";"False";;;"nackni";"S-1-5-21-2206999850-3209828552-655343095-1011";"Local";"User"
+;"";"True";"";"23.8.2021 15.31.29";;"True";"False";"23.8.2021 15.31.29";"17.10.2022 9.17.45";"Omistaja";"S-1-5-21-2206999850-3209828552-655343095-1001";"Local";"User"
+;"";"True";"";;;"True";"False";;;"russja";"S-1-5-21-2206999850-3209828552-655343095-1009";"Local";"User"
+;"J?rjestelm??n kuuluva tietokoneen/toimialueen vierailuk?ytt?tili";"False";"";;;"False";"False";;;"Vieras";"S-1-5-21-2206999850-3209828552-655343095-501";"Local";"User"
+;"J?rjestelm?n k?ytt?j?tili, jota j?rjestelm? hallinnoi ja jota se k?ytt?? Windows Defenderin sovellussuoja-skenaarioissa.";"False";"";"27.7.2020 14.53.31";"7.9.2020 14.53.31";"True";"True";"27.7.2020 14.53.31";;"WDAGUtilityAccount";"S-1-5-21-2206999850-3209828552-655343095-504";"Local";"User"
